@@ -5,17 +5,17 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  markdown: {
-    drafts: true,
-    shikiConfig: {
-      theme: "css-variables"
-    }
-  },
-  shikiConfig: {
-    wrap: true,
-    skipInline: false,
-    drafts: true
-  },
-  site: 'https://lexingtonthemes.com',
-  integrations: [tailwind(), sitemap(), mdx()]
+   markdown: {
+      drafts: true,
+      shikiConfig: {
+         theme: "css-variables"
+      }
+   },
+   shikiConfig: {
+      wrap: true,
+      skipInline: false,
+      drafts: true
+   },
+   site: 'https://thecoopscoopblog.onrender.com',
+   integrations: [tailwind(), sitemap(), mdx()]
 });
