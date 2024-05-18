@@ -4,7 +4,7 @@ author: Evelyn Lopez
 title: What is the Pecking Order?
 description: "An insight on the pecking order in chicken flocks, explaining how it is established, its significance in maintaining order, and tips for minimizing stress during this hierarchical process."
 image:
-  url: "https://www.pexels.com/photo/four-assorted-color-roosters-1769279/"
+  url: "https://images.pexels.com/photos/1769279/pexels-photo-1769279.jpeg"
   alt: "Four roosters standing side by side."
 tags: ["Behavior"]
 ---
